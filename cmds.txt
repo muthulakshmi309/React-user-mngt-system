@@ -1,0 +1,12 @@
+npm install babel
+npm install babel-cli
+npm install webpack
+npm install webpack-dev-server
+npm install react
+npm install react-dom
+
+npm install create-react-app
+ cd react-app
+ npx create-react-app user-mngt-sys
+ cd user-mngt-sys
+ npm start
